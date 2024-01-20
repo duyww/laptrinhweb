@@ -1,0 +1,55 @@
+#wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+table{
+    font-size: 30px;
+    border: 1px solid rgb(204, 204, 204);
+    padding: 50px 50px;
+    background-color:rgb(243, 0, 8);
+    box-shadow: 5px 5px 5px 5px rgb(188, 188, 188);
+}
+.name_hoten{
+    color: black;
+    float: left;
+    justify-content: center;
+    
+}
+.input_hoten{
+    border: 1px solid black;
+    padding: 10px 10px;
+    width: 500px;
+    font-size: 25px;
+}
+.gioitinh_1{
+    color: black;
+
+}
+
+.gioitinh_name{
+    color: black;
+
+}
+.interes_1{
+    color: rgb(197, 17, 17);
+}
+#Nhaplai_1{
+   color: black; 
+   font-size: 25px;
+   padding: 5px 5px;
+   width: 250px;
+   border: black 1px solid;
+   margin-top: 30px;
+ 
+}
+#Nhaplai_2 #Nhaplai_1:hover{
+    color: rgb(100, 107, 90);
+    border: 1px solid black;
+    background-color: rgb(9, 55, 10);
+}
+#Nhaplai{
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,54 @@
+  style>
+    body{
+    background-image: url(flower.jpg);
+    background-repeat: no-repeat;
+    }
+    #wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    }
+    caption{
+        border: 2px solid  rgb(145, 73, 124);
+        border-bottom: none;
+        padding-top: 20px;
+        font-weight: bold;
+        font-size: 30px;
+        padding-bottom: none;
+        color: rgb(210, 8, 140);
+        background-color: rgb(255, 195, 234);
+        
+    }
+    table{
+        border: 2px solid  rgb(169, 36, 131);
+        padding: 40px 40px;
+        border-top: none;
+        font-size: 20px;
+        background-color: rgb(255, 195, 234);
+    }
+    #input{
+        display:flex;
+        align-items: center;
+        text-align: center;
+    
+    }
+    #Nhaplai_1{
+        font-size: 20px;
+        padding: 5px 10px;
+        margin: 0px 10px;
+        color: black;
+        background-color: rgb(234, 43, 196);
+    }
+    .input1{
+        display: flex;
+        padding-bottom: 20px;
+    }
+    .input_hoten{
+        width: 310px;
+        height: 30px;
+        font-size: 20px;
+    }
+    i{
+        padding: 5px;
+    }
